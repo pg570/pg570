@@ -1,7 +1,7 @@
 [![MasterHead](https://www.nmttechnologies.com/images/service/website.jpg)](https://pg570.github.io)
 <h1 align="center">Hi 👋, I'm Prashant Giri</h1>
 <h3 align="center">A Full MERN Stack Web developer from India</h3>
-<img align="right" width="400px"  src="https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966" alt="dev"  />
+<img align="right" width="400px" src="https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966" alt="dev"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg570&label=Profile%20views&color=0e75b6&style=flat" alt="pg570" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **full time web development program at Masai school**
 
-- 👨‍💻 All of my projects are available at [pg570.github.io](pg570.github.io)
+- 👨‍💻 My projects are available at [pg570.github.io](pg570.github.io)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **pgiri570@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jKJRKSSO16f8-j0IV9x5139InaECZlz9/view?usp=sharing](https://drive.google.com/file/d/1jKJRKSSO16f8-j0IV9x5139InaECZlz9/view?usp=sharing)
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1jKJRKSSO16f8-j0IV9x5139InaECZlz9/view?usp=sharing" >Resume</a>
 
 - ⚡ Fun fact **I am funny 😂**
 
