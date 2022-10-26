@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/pgiri570" target="blank"><img src="https://img.shields.io/twitter/follow/pgiri570?logo=twitter&style=for-the-badge" alt="pgiri570" /></a> </p>
 
-- 🌱 I’m currently learning **full time web development program at Masai school**
+- 🌱 I’m currently learning **full time web development course at Masai school**
 
-- 👨‍💻 My projects are available at [pg570.github.io](pg570.github.io)
+- 👨‍💻 My projects are available at <a target="blank" href="https://pg570.github.io">Portfolio</a>
+
 
 - 💬 Ask me about **MERN Stack**
 
