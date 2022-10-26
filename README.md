@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences - <a target="blank" href="https://drive.google.com/file/d/1OuHpUqxn43SMJwrcR9whARxRCVR4p_S1/view?usp=sharing">Resume</a>
 
-- ⚡ Fun fact **I am funny 😂**
+- ⚡ Fun fact **Elephant's can't jump! 😂**
 
 <h3 align="center">Let's Connect 🤝:</h3>
 <p align="center">
