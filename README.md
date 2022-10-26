@@ -34,3 +34,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pg570&show_icons=true&locale=en" alt="pg570" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pg570&" alt="pg570" />
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=pg570&hide_border=true&area=true&point=transparent&theme=react-dark">
+
