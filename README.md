@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pgiri570@gmail.com**
 
-- 📄 Know about my experiences - <a target="blank" href="https://drive.google.com/file/d/1jKJRKSSO16f8-j0IV9x5139InaECZlz9/view?usp=sharing" >Resume</a>
+- 📄 Know about my experiences - <a target="blank" href="https://drive.google.com/file/d/1OuHpUqxn43SMJwrcR9whARxRCVR4p_S1/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I am funny 😂**
 
